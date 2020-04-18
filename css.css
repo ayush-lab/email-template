@@ -90,8 +90,11 @@ a{
     letter-spacing: 2px;
     text-align: justify;
 }
-.para2
+.para2,.para3
 {
     font-weight: 500;
+}
+.para3{
+    font-size: 25px;
 }
 
